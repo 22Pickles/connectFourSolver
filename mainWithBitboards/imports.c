@@ -4,8 +4,10 @@
 #include <unistd.h>
 #include <time.h>
 #include <pthread.h>
+#include <stdint.h>
 
 #include "constants.c"
+#include "dataTypes.c"
 #include "globalVariables.c"
 #include "boardFunctions.c"
 #include "evaluationFunctions.c"
